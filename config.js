@@ -1,5 +1,5 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @Abiofc 🔭
+// M A D E  B Y  Nurutomo 
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -45,32 +45,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
+global.sgh = 'https://github.com/abituru'
+global.sgc = 'https://chat.whatsapp.com/HCVVBE1Qs3LAiMWzGsPZTa'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
+global.pdana = '088232154376'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '088232154376'
+global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
+global.nomorbot = '994408105125'
+global.nomorown = '6288232154376'
 global.namebot = 'Kanna BOT'
 global.nameown = 'Letta - Sama'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6288232154376'],
+  ['994408105125'],
+  [''],
+  ['', 'ABI SLEBEWW', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
